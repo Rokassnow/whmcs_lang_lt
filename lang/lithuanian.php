@@ -814,60 +814,60 @@ $_LANG['clientareafilesdate'] = "Įtraukta";
 $_LANG['clientareafilesfilename'] = "Pavadinimas";
 
 $_LANG['pwreset'] = "Pamiršote slaptažodį?";
-$_LANG['pwresetdesc'] = "Nurodykite savo el. pašto adresą, kuriuo registravotės mūsų sistemoje. Jūsų nurodytų el. pašto adresu bus atsiųsta informacija ką turite padaryti toliau.";
+$_LANG['pwresetdesc'] = "Nurodykite savo el. pašto adresą, kuriuo registravotės mūsų sistemoje. Jūsų nurodytų el. pašto adresu bus atsiųsta informacija ką turite daryti toliau.";
 $_LANG['pwresetemailrequired'] = "Prašome įvesti savo el. pašto adresą";
-$_LANG['pwresetemailnotfound'] = "Nėra klientų sąskaita buvo nustatyta su elektroninio pašto adreso,";
+$_LANG['pwresetemailnotfound'] = "El. pašto adresas nebuvo rastas mūsų duomenų bazėje,";
 $_LANG['pwresetsecurityquestionrequired'] = "Kaip jūs turite saugumo klausimas setup savo sąskaitą, turite įvesti atsakymą į šį klausimą žemiau.";
 $_LANG['pwresetsecurityquestionincorrect'] = "saugumo klausimas atsakymas įvedėte neatitinka atsakymo nustatyti savo sąskaitą";
 $_LANG['pwresetsubmit'] = "Pateikti";
 $_LANG['pwresetvalidationsent'] = "Patvirtinimo laiškas išsiųstas";
-$_LANG['pwresetvalidationcheckemail'] = "Pasitikrinkite savo el. pašto adresą ir sekite nurodymais ką daryti toliau.";
+$_LANG['pwresetvalidationcheckemail'] = "Pasitikrinkite savo el. pašto adresą ir sekite nurodymus.";
 $_LANG['pwresetkeyinvalid'] = "Neteisinga slaptažodžio keitimo nuoroda. Bandykite dar kartą. ";
 $_LANG['pwresetkeyexpired'] = "Slaptažodžio keitimo nuoroda nebegalioja. Bandykite dar kartą. ";
 $_LANG['pwresetvalidationsuccess'] = "Slaptažodis atstatytas sėkmingai";
 
 $_LANG['overagescharges'] = "naudingumo funkcijų mokestis";
-$_LANG['overagestotaldiskusage'] = "Iš viso disko naudojimo";
-$_LANG['overagestotalbwusage'] = "Iš viso Srautą";
+$_LANG['overagestotaldiskusage'] = "Disko vietos sunaudojimas";
+$_LANG['overagestotalbwusage'] = "Srautas";
 
-$_LANG['affiliatescommissionspending'] = "komisijos Kol Brandinimas";
-$_LANG['affiliatescommissionsavailable'] = "Esamos komisijos Balansas";
-$_LANG['affiliatessignups'] = "skaičius registracijų";
-$_LANG['affiliatesconversionrate'] = "konversijos";
+$_LANG['affiliatescommissionspending'] = "Numatomi komisiniai mokėsčiai";
+$_LANG['affiliatescommissionsavailable'] = "Dabartiniai komisiniai mokėsčiai";
+$_LANG['affiliatessignups'] = "Registracijų skaičius";
+$_LANG['affiliatesconversionrate'] = "Keitimo vertė";
 
 $_LANG['configoptionqtyminmax'] = "%s yra minimalus reikalavimas dėl% s ir ne daugiau kaip %s";
 
-$_LANG['creditcardnostore'] = "Pažymėkite šį langelį, jei nenorite laikyti savo kreditinės kortelės duomenis ir pasikartojanti mokėjimą";
-$_LANG['creditcarddelete'] = "Ištrinti Išsaugota kortelės duomenis";
-$_LANG['creditcarddeleteconfirmation'] = "saugomi kredito kortelių duomenis, jau buvo pašalinta iš jūsų sąskaitos";
-$_LANG['creditcardupdatenotpossible'] = "kreditinės kortelės informacija negali būti atnaujintas esamą laiką. pabandyti vėliau.";
+$_LANG['creditcardnostore'] = "Pažymėkite šį langelį, jei NENORITE, jog laikytumėme Jūsų kreditinės kortelės duomenis (pvz. kitam mokėjimui)";
+$_LANG['creditcarddelete'] = "Ištrinti išsaugotus kortelės duomenis";
+$_LANG['creditcarddeleteconfirmation'] = "saugomi kredito kortelių duomenis, buvo ištrinti";
+$_LANG['creditcardupdatenotpossible'] = "kreditinės kortelės informacija negali būti atnaujinti. Pabandykite vėliau.";
 
 $_LANG['invoicepaymentsuccessconfirmation'] = "Ačiū! Jūsų mokėjimas buvo sėkmingas.";
-$_LANG['invoicepaymentfailedconfirmation'] = "Deja, Jūsų mokėjimas bandymas nebuvo sėkmingas. <br /> Bandykite dar kartą arba susisiekite su palaikymo tarnyba.";
+$_LANG['invoicepaymentfailedconfirmation'] = "Deja, Jūsų mokėjimas nebuvo atliktas sėkmingai. <br /> Bandykite dar kartą arba susisiekite su mumis.";
 
 # Versija 4.2
 
-$_LANG['promoappliedbutnodiscount'] = "skatinimas įvestas kodas buvo pritaikytas Jūsų krepšelyje bet ne elementai gauti nuolaida dar - patikrinkite reklamos sąlygos";
+$_LANG['promoappliedbutnodiscount'] = "PROMO kodas negalioja - patikrinkite reklamos sąlygas";
 
-$_LANG['upgradeerroroverdueinvoice'] = "Jūs negalite metu atnaujinti arba smukimą šį produktą, nes sąskaita jau buvo sukurtas kito atnaujinimo. <br /> <br /> Norėdami tęsti, pirmiausia sumokėti nesumokėtą sąskaitą ir tada bus galės atnaujinti arba smukimą iš karto po, kad ir sumokėti skirtumą arba įskaityta kaip tinkamas.";
+$_LANG['upgradeerroroverdueinvoice'] = "Jūs negalite atnaujinti šio produktą, nes yra neapmokėta sąskaita. <br /> <br /> Norėdami tęsti, pirmiausia sumokėkite neapmokėtą sąskaitą ir galėsite atnaujinti paslaugą.";
 
-$_LANG['subaccountactivate'] = "Įjungti subsąskaita";
+$_LANG['subaccountactivate'] = "Įjungti sub-sąskaita";
 $_LANG['subaccountactivatedesc'] = "Pažymėkite konfigūruoti kaip sub-sąskaitą klientas prieigos zonos";
-$_LANG['subaccountpermissions'] = "subsąskaita teises";
-$_LANG['subaccountpermsprofile'] = "Redaguoti Meistras Paskyros profilis";
+$_LANG['subaccountpermissions'] = "Sub-sąskaitos teises";
+$_LANG['subaccountpermsprofile'] = "Redaguoti profilį";
 $_LANG['subaccountpermscontacts'] = "Peržiūrėti ir tvarkyti kontaktus";
-$_LANG['subaccountpermsproducts'] = "Peržiūrėti produktai ir paslaugos";
+$_LANG['subaccountpermsproducts'] = "Peržiūrėti produktus ir paslaugas";
 $_LANG['subaccountpermsmanageproducts'] = "Rodyti ir Keisti Produkto Slaptažodžį";
-$_LANG['subaccountpermsdomains'] = "Peržiūrėti Domenus";
+$_LANG['subaccountpermsdomains'] = "Peržiūrėti domenus";
 $_LANG['subaccountpermsmanagedomains'] = "Tvarkyti domeno nustatymus";
 $_LANG['subaccountpermsinvoices'] = "Peržiūrėti ir apmokėti sąskaitas";
 $_LANG['subaccountpermstickets '] =" Peržiūrėti ir sukurti pagalbos užklausą ";
 $_LANG['subaccountpermsaffiliates'] = "Peržiūrėti ir tvarkyti kalbą sąskaitą";
 $_LANG['subaccountpermsemails '] = "Rodyti laiškus";
-$_LANG['subaccountpermsorders'] = "Naujas Užsakymas/Atnaujinimai/Atšaukimas";
-$_LANG['subaccountpermissiondenied'] = "Jūs neturite reikiamų teisių patekti į šį puslapį";
-$_LANG['subaccountallowedperms'] = "Jums suteikti leidimai:";
-$_LANG['subaccountcontactmaster'] = "Susisiekite su sąskaitos savininku, jei manote, kad tai klaida.";
+$_LANG['subaccountpermsorders'] = "Naujas Užsakymas/Atnaujinimas/Atšaukimas";
+$_LANG['subaccountpermissiondenied'] = "Jūs neturite teisių patekti į šį puslapį";
+$_LANG['subaccountallowedperms'] = "Jums suteiktos teisės:";
+$_LANG['subaccountcontactmaster'] = "Susisiekite su paskyros savininku, jei manote, kad tai klaida.";
 
 $_LANG['knowledgebasealsoread'] = "Taip pat skaitykite";
 
@@ -877,7 +877,7 @@ $_LANG['orderpaymentterm36month'] = "36 Mėnesių Kaina";
 $_LANG['domainrenewals'] = "Domenų pratęsimas";
 $_LANG['domaindaysuntilexpiry'] = "Dienų iki galiojimo pabaigos";
 $_LANG['domainrenewalsnoneavailable'] = "Nėra domenų kuriems reikalingas pratęsimas";
-$_LANG['domainrenewalspastgraceperiod'] = "Praeities Atsinaujinanti laikotarpis";
+$_LANG['domainrenewalspastgraceperiod'] = "Praeities atnaujinimų laikotarpis";
 $_LANG['domainrenewalsingraceperiod'] = "Paskutinis šansas pratęsti!";
 $_LANG['domainrenewalsdays'] = "dienos";
 $_LANG['domainrenewalsdaysago'] = "prieš";
@@ -896,14 +896,14 @@ $_LANG['masspaymakepayment'] = "Apmokėti";
 $_LANG['searchenterdomain'] = "Nurodykite domeną";
 $_LANG['searchfilter'] = "Filtruoti";
 
-$_LANG['suspendreason'] = "sustabdymo priežastis";
-$_LANG['suspendreasonoverdue'] = "dingo apmokėjimo";
+$_LANG['suspendreason'] = "Sustabdymo priežastis";
+$_LANG['suspendreasonoverdue'] = "Neapmokėta";
 
 $_LANG['vpsnetmanagement'] = "VPS valdymas";
 $_LANG['vpsnetpowermanagement'] = "Galios valdymas";
 $_LANG['poweron'] = "Įjungta";
-$_LANG['poweroffforced'] = "išsijungimas (priverstinio)";
-$_LANG['powerreboot'] = "Perkraukite";
+$_LANG['poweroffforced'] = "Išjungti (priverstinai)";
+$_LANG['powerreboot'] = "Perkrauti";
 $_LANG['powershutdown'] = "Išjungti";
 $_LANG['vpsnetcpugraphs'] = "CPU Grafikai";
 $_LANG['vpsnetnetworkgraphs'] = "Tinklo Grafikai";
@@ -912,10 +912,10 @@ $_LANG['vpsnetdaily'] = "Dienos";
 $_LANG['vpsnetweekly'] = "Savaitės";
 $_LANG['vpsnetmonthly'] = "Mėnesio";
 $_LANG['view'] = "Peržiūrėti";
-$_LANG['vpsnetbackups'] = "Atsarginė nustatymai";
+$_LANG['vpsnetbackups'] = "Atsarginių kopijų nustatymai";
 $_LANG['vpsnetgenbackup'] = "Sukurti atsarginę kopiją";
-$_LANG['vpsnetrestorebackup'] = "Atkurti Atsarginė kopija";
-$_LANG['vpsnetrestorebackupwarning'] = "Atkurti atsarginę kopiją bus daugiau rašyti savo VPS serverį";
+$_LANG['vpsnetrestorebackup'] = "Atkurti atsarginė kopija";
+$_LANG['vpsnetrestorebackupwarning'] = "Atsarginė kopija perrašys VPS serverį";
 $_LANG['vpsnetnobackups'] = "Nėra atsarginių kopijų";
 $_LANG['vpsnetrunning'] = "Running";
 $_LANG['vpsnetnotrunning'] = "Neveikia";
@@ -928,13 +928,13 @@ $_LANG['vpsnetbwusage'] = "Srautą";
 $_LANG['twitterlatesttweets'] = "Mūsų Naujausios Žinutės";
 $_LANG['twitterfollow'] = "Sekite mus Twitter";
 $_LANG['twitterfollowus'] = "Sekite mus";
-$_LANG['twitterfollowuswhy'] = "sustabdyti iki datos su mūsų naujienas ir pasiūlymus";
+$_LANG['twitterfollowuswhy'] = "matysite visas mūsų naujienas ir pasiūlymus";
 
 $_LANG['chatlivehelp'] = "Pagalba gyvai";
 
 $_LANG['domainrelease'] = "Išleidimo domeno";
-$_LANG['domainreleasedescription'] = "Įveskite naują žymą čia perkelti savo domeno vardą į kitą registratorių";
-$_LANG['domainreleasetag'] = "Naujas kancleris Gairė";
+$_LANG['domainreleasedescription'] = "Įveskite naują žymą čia noredami perkelti savo domeną į kitą registratorių";
+$_LANG['domainreleasetag'] = "Nauja gairė";
 
 # Ajax Užsakymo forma
 
@@ -943,51 +943,51 @@ $_LANG['orderformtitle'] = "Užsakymo forma";
 $_LANG['signup'] = "Registruotis";
 $_LANG['loading'] = "Įkeliama ...";
 
-$_LANG['ordersummarybegin'] = "Prašome pasirinkti produktą pradėti";
+$_LANG['ordersummarybegin'] = "Prašome pasirinkti produktą";
 
 $_LANG['cartchooseproduct'] = "Pasirinkite paslaugą";
 $_LANG['cartconfigurationoptions'] = "Konfigūracijos nustatymai";
 
-$_LANG['ordererrorsoccurred'] = "Šie Įvyko klaida ir turi būti ištaisyti prieš kasos:";
-$_LANG['ordererrortermsofservice'] = "Paslaugų teikimo sąlygos turi susitarti";
-$_LANG['ordertostickconfirm'] = "Pažymėkite, kad patvirtintumėte sutinkate";
+$_LANG['ordererrorsoccurred'] = "Įvyko klaida, kuri būti ištaisyta prieš sumokant:";
+$_LANG['ordererrortermsofservice'] = "Privalote sutikti su naudojimosi taisyklėmis";
+$_LANG['ordertostickconfirm'] = "Pažymėkite, jei sutinkate";
 
 $_LANG['cartnewcustomer'] = "Naujas klientas";
 $_LANG['cartexistingcustomer'] = "Esamas klientas";
 
-$_LANG['cartpromo'] = "skatinimas";
-$_LANG['cartenterpromo'] = "Įveskite skatinimo kodas";
-$_LANG['cartremovepromo'] = "Pašalinti Promo";
+$_LANG['cartpromo'] = "PROMO kodas";
+$_LANG['cartenterpromo'] = "Įveskite PROMO kodą";
+$_LANG['cartremovepromo'] = "Pašalinti PROMO kodą";
 
 $_LANG['cartrecurringcharges'] = "Periodiniai mokėjimai";
 
-$_LANG['cartenterdomain'] = "Prašome įvesti domeną, kurį norite naudoti toliau.";
+$_LANG['cartenterdomain'] = "Prašome įvesti domeną, kurį norite naudoti.";
 
 $_LANG['cartdomainavailableoptions'] = "Sveikiname, šis domenas laisvas!";
 $_LANG['cartdomainavailableregister'] = "Prašome užsiregistruoti šį domeną";
-$_LANG['cartdomainavailablemanual'] = "Aš jį užregistruoti save atskirai";
+$_LANG['cartdomainavailablemanual'] = "Užregistruosiu pats";
 
 $_LANG['cartdomainunavailableoptions'] = "Atsiprašome, bet šis domenas jau užimtas. Jei esate savininkas, prašome pasirinkti vieną iš variantų ...";
 $_LANG['cartdomainunavailabletransfer'] = "Prašome perkelti savo domeną";
-$_LANG['cartdomainunavailablemanual'] = "Aš jau turite šį domeną ir atnaujins vardų serverius";
+$_LANG['cartdomainunavailablemanual'] = "Aš jau turiu šį domeną ir atnaujinsiu vardų serverius";
 
-$_LANG['cartdomaininvalid'] = "Domeno pavadinimas kurį įvedėte, yra nekorektiškas. Nurodykite vardą be www. ir pasirinkite norimą galūnę, pvz. .net";
+$_LANG['cartdomaininvalid'] = "Domeno pavadinimas kurį įvedėte, yra parašytas neteisingai. Nurodykite vardą be www. ir pasirinkite norimą galūnę (pvz. .net)";
 
 # Versija 4,4
 
-$_LANG['dlinvalidlink'] = "Neteisingas Nuoroda Pridedant. Prašome susisiekti su palaikymo tarnyba";
+$_LANG['dlinvalidlink'] = "Neteisinga nuoroda. Prašome susisiekti su pagalba";
 
-$_LANG['domaindnsmanagementlaunch'] = "Paleisti DNS redaktorių";
-$_LANG['domainemailforwardinglaunch'] = "Paleisti Pašto peradresavimą";
+$_LANG['domaindnsmanagementlaunch'] = "Įjungti DNS redaktorių";
+$_LANG['domainemailforwardinglaunch'] = "Įjungti pašto peradresavimą";
 
 # Versija 4.5
 
-$_LANG['domaindnspriority'] = "Prioritetas";
-$_LANG['domaindnsmxonly'] = "Prioritetas rekordą MX Tik";
+$_LANG['domaindnspriority'] = "Pirmenybė";
+$_LANG['domaindnsmxonly'] = "Pirmenybė tik MX";
 
-$_LANG['orderpromoprestart'] = "Ši akcija dar neprasidėjo. pabandyti vėliau.";
+$_LANG['orderpromoprestart'] = "Ši akcija dar neprasidėjo. Pabandykite vėliau.";
 
-$_LANG['ticketmerge'] = "susijungė";
+$_LANG['ticketmerge'] = "Sujungta";
 
 $_LANG['quote'] = "Pasiūlymas";
 $_LANG['quotestitle'] = "Spec. pasiūlymai";
@@ -1008,7 +1008,7 @@ $_LANG['quotedesc'] = "Aprašymas";
 $_LANG['quoteunitprice'] = "Vieneto kaina";
 $_LANG['quotediscount'] = "Nuolaida %";
 $_LANG['quotelinetotal'] = "Iš viso";
-$_LANG['quotestagedraft'] = "Juodraštis";
+$_LANG['quotestagedraft'] = "Atšaukta";
 $_LANG['quotestagedelivered'] = "Paskelbta";
 $_LANG['quotestageonhold'] = "sustabdytas";
 $_LANG['quotestageaccepted'] = "Priimtas";
@@ -1016,29 +1016,29 @@ $_LANG['quotestagelost'] = "pasibaigęs";
 $_LANG['quotestagedead'] = "pasibaigęs";
 $_LANG['quoteref'] = "Atsakymas į pasiūlymą #";
 $_LANG['quotedeposit'] = "indėlis";
-$_LANG['quotefinalpayment'] = "Indėlių balansas";
+$_LANG['quotefinalpayment'] = "Indėlio balansas";
 
 $_LANG['invoiceoneoffpayment'] = "Padaryti vienkartinė išmoka";
-$_LANG['invoicesubscriptionpayment'] = "Sukurti automatizuotos Pasikartojantis prenumerata";
+$_LANG['invoicesubscriptionpayment'] = "Sukurti automatizuotus mokėjimus";
 
 $_LANG['invoicepaymentpendingreview'] = "Ačiū! Jūsų mokėjimas buvo sėkmingas ir kuo greičiau 2Checkout peržiūros procesą baigė bus taikomi į savo sąskaitą. <br /> <br /> Tai gali užtrukti iki kelių valandų, todėl jūsų kantrybę.";
 
 $_LANG['step'] = "Žingsnis %s";
-$_LANG['cartdomainexists'] = "Šis domenas jau yra mūsų duomenų bazėje todėl negali būti užsakytas kartą";
+$_LANG['cartdomainexists'] = "Šis domenas jau yra mūsų duomenų bazėje todėl negali būti užsakytas antrą kartą";
 $_LANG['cartcongratsdomainavailable'] = "Sveikiname, domenas %s yra laisvas!";
 $_LANG['cartregisterhowlong'] = "Pasirinkite kokiam laikotarpiui norite užregistruoti domeną.";
 $_LANG['cartdomaintaken'] = "Atsiprašome, %s jau užimtas";
-$_LANG['carttransfernotregistered'] = "%s neatrodo būti įregistruotas dar";
+$_LANG['carttransfernotregistered'] = "%s dar neužregistruotas";
 $_LANG['carttransferpossible'] = "Sveikiname, mes galime perkelti %s pas mus tik už %s";
-$_LANG['cartotherdomainsuggestions'] = "Kiti domenai jums gali būti domina ..";
+$_LANG['cartotherdomainsuggestions'] = "Kiti domenai, kurie galėtu jus dominti ..";
 $_LANG['cartdomainsconfiginfo'] = "Nurodykite pasirinktų domenų parametrus. Privalomi laukai pažymėti žvaigždute (*).";
 $_LANG['cartnameserverchoice'] = "Naudojami DNS serveriai";
 $_LANG['cartnameserverchoicedefault'] = "Mūsų DNS serveriai";
-$_LANG['cartnameserverchoicecustom'] = "Išvardinti DNS serveriai:";
+$_LANG['cartnameserverchoicecustom'] = "Naudoti kitus DNS serverius:";
 $_LANG['cartfollowingaddonsavailable'] = "Jūsų įsigytoms paslaugoms bei produktams galime pasiūlyti šiuos priedus.";
 $_LANG['cartregisterdomainchoice'] = "Registruoti naują domeną";
 $_LANG['carttransferdomainchoice'] = "Perkelk savo domeną iš kito registratoriaus";
-$_LANG['cartexistingdomainchoice'] = "Aš naudoti savo esamą domeną ir atnaujinti savo vardų serverius";
+$_LANG['cartexistingdomainchoice'] = "Aš naudosiu savo esamą domeną ir įrašysių savo vardų serverius";
 $_LANG['cartsubdomainchoice'] = "Naudokite subdomenas %s";
 $_LANG['carterrordomainconfigskipped'] = "Jūs turite grįžti ir užpildyti reikiamus domeno konfigūracijos laukus pirmiau";
 $_LANG['cartproductchooseoptions'] = "Parametrai";
